@@ -1,0 +1,7 @@
+Theano
+
+Lasagne==0.1
+
+joblib==0.9.3
+tabulate==0.7.5
+git+https://github.com/dnouri/nolearn.git@master#egg=nolearn==0.7.git
