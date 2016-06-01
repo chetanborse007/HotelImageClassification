@@ -26,7 +26,13 @@ II. FILE LIST
 
 a. image_classification.py      Image classification script
 b. requirements.txt             Python dependencies to be installed
-c. README
+c. ImageClassification.docx	Documentation for Image Classification script
+				(docx version)
+d. ImageClassification.pdf	Documentation for Image Classification script
+				(pdf version)
+e. train.csv			Sample CSV format for training csv
+f. result.csv			Sample csv containing predictions
+g. README
 
 
 III. REQUIREMENTS
