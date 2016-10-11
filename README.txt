@@ -1,5 +1,5 @@
 # ********************************
-# *  HOTEL IMAGE CLASSIFICATION  *
+# HOTEL IMAGE CLASSIFICATION  *
 # ********************************
 
 
